@@ -1,7 +1,7 @@
 # elige
 Un analizador de libros de "Elige tu propia eventura"
 
-La parte tediosa es crear el archivo con los datos del libro: un json donde se definen las paginas y cuales son las posibles siguientes de cada una.
+La parte tediosa es crear el archivo con los datos del libro: un json donde se definen las paginas y cuales son las posibles siguientes de cada una. (ver archivo `la_taza_de_la_muerte.json`)
 
 Si la proxima página es una o mas páginas, se define una lista, por ejemplo:
 
